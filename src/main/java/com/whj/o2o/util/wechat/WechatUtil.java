@@ -25,8 +25,6 @@ import com.whj.o2o.entity.PersonInfo;
 
 /**
  * 微信工具类
- * 
- * @author xiangze
  *
  */
 public class WechatUtil {

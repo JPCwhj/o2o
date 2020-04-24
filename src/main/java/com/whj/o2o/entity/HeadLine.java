@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * 头条实体类
  * 
- * @author xiangze
+ *
  *
  */
 public class HeadLine {

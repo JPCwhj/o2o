@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * 微信登录实体类
  * 
- * @author xiangze
+ *
  *
  */
 public class WechatAuth {

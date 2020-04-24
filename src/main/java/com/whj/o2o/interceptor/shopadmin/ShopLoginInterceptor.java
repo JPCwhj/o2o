@@ -12,7 +12,7 @@ import com.whj.o2o.entity.PersonInfo;
 /**
  * 店家管理系统登录验证拦截器
  * 
- * @author xiangze
+ *
  *
  */
 public class ShopLoginInterceptor extends HandlerInterceptorAdapter {

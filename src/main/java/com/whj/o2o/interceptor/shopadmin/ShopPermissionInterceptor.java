@@ -12,7 +12,7 @@ import com.whj.o2o.entity.Shop;
 /**
  * 店家管理系统操作验证拦截器
  * 
- * @author xiangze
+ *
  *
  */
 public class ShopPermissionInterceptor extends HandlerInterceptorAdapter {
